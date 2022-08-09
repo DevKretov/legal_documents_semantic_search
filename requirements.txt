@@ -1,0 +1,2 @@
+pymupdf
+sentence_transformers
