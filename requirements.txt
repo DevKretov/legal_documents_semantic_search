@@ -2,5 +2,4 @@ pymupdf
 sentence_transformers
 stanza
 nltk
-lexnlp
-
+lexnlp==2.2.0
