@@ -1,5 +1,6 @@
 pymupdf
 sentence_transformers
 stanza
-lexnlp
 nltk
+lexnlp
+
