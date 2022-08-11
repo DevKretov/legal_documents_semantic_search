@@ -2,4 +2,5 @@ pymupdf
 sentence_transformers
 stanza
 nltk
+scikit-learn==0.23.1
 lexnlp==2.2.0
